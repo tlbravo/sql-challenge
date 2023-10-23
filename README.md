@@ -13,7 +13,8 @@ https://www.c-sharpcorner.com/blogs/sql-query-to-find-out-the-frequency-of-each-
 * Included is my sql code, a png of the ERD, and the cvs files that contained the employee data.
 
 ## Data Modeling<br>
-* Inspect the CSV files, and then sketch an Entity Relationship Diagram of the tables. To create the sketch, feel free to use a tool like QuickDBDLinks to an external site..
+Inspect the CSV files, and then sketch an Entity Relationship Diagram of the tables. To create the sketch, feel free to use a tool like QuickDBDLinks to an external site.<br>
+![employee erd](employee_diagram.png) 
 
 ## Data Engineering<br>
 Use the provided information to create a table schema for each of the six CSV files. Be sure to do the following:
